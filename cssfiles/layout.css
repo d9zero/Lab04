@@ -1,0 +1,82 @@
+@media screen and (max-width:480px){
+  main{
+    width:480px;
+  }
+}
+
+body{
+  margin: auto; 
+  
+}
+div{
+  border: 1px black solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#a {
+  width: 480px;
+  height: 75px;
+  background-color: red;
+  border: 1px black;
+}
+
+#b {
+  width: 480px;
+  height: 150px;
+  background-color: orange;
+  border: 1px black;
+}
+
+#c {
+  width: 480px;
+  height: 125px;
+  background-color: yellow;
+  border: 1px black;
+}
+
+#d {
+  width: 480px;
+  height: 125px;
+  background-color: green;
+  border: 1px black;
+}
+
+#f, #h {
+  width: 240px;
+  height: 250px;
+  border: 1px black;
+}
+
+#f {
+  background-color: blue;
+  float: right;
+}
+
+#h{
+  background-color: purple;
+  float: right;
+}
+#e, #g {
+  width: 240px;
+  height: 250px;
+  float: left;
+  border: 1px black;
+}
+#e {
+  color: white;
+  background-color: black;
+  float: left;
+}
+#g {
+  background-color: lightpink;
+
+}
+#i {
+  background-color: tan;
+  width: 480px;
+  height: 80px;
+  border: 1px black;
+}
+
